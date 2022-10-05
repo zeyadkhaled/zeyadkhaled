@@ -8,7 +8,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeyadkhaled&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zeyadkhaled&theme=radical&hide_border=true)
-<p align="center">
-<img  src="https://random-memer.herokuapp.com/" width="512px"/>
-</p>
 
